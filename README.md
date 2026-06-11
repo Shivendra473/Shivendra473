@@ -1,11 +1,11 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=180&section=header&text=Shivendra%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%205%2B%20Years%20Experience&descAlignY=55&descSize=18" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=180&section=header&text=Shivendra%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%205.5%2B%20Years%20Experience&descAlignY=55&descSize=18" alt="Header Banner"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivendra+Pandey;Full+Stack+Developer+%7C+5%2B+Years;Building+Scalable+Web+Applications;Laravel+%7C+React+%7C+Node.js+%7C+Next.js;Open+to+Collaboration+%26+New+Opportunities" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivendra+Pandey;Full+Stack+Developer+%7C+5.5%2B+Years;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Next.js+%7C+Laravel;Open+to+Collaboration+%26+New+Opportunities" alt="Typing Animation"/>
 </div>
 
 <br/>
