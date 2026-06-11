@@ -35,7 +35,7 @@
 
 ## 👋 Introduction
 
-I'm **Shivendra Pandey**, a **Full Stack Developer** from **Lucknow, India** with **5+ years of professional experience** building scalable web applications and business solutions.
+I'm **Shivendra Pandey**, a **Full Stack Developer** from **Lucknow, India** with **5.5+ years of professional experience** building scalable web applications and business solutions.
 
 I specialize in end-to-end product development — from database design and REST API architecture to responsive, user-friendly frontends. I thrive in collaborative environments where clean code, performance, and real business impact matter.
 
@@ -45,7 +45,7 @@ I specialize in end-to-end product development — from database design and REST
 
 ## 🧑‍💻 About Me
 
-- 🚀 **5+ years** delivering production-grade web applications
+- 🚀 **5.5+ years** delivering production-grade web applications
 - 🏢 Experienced across **CRM**, **Project Management**, **Inventory**, **E-commerce**, and **E-learning** platforms
 - 🎯 Passionate about **scalable architecture**, **clean code**, and **great user experiences**
 - 🎓 **MCA in Computer Science** — Integral University
@@ -61,13 +61,13 @@ I specialize in end-to-end product development — from database design and REST
 
 <div align="center">
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -130,7 +130,7 @@ I specialize in end-to-end product development — from database design and REST
 ### 3. 📦 Inventory Management System
 > Real-time inventory tracking, stock control, and business operations.
 
-`Laravel` `PHP` `MySQL` `jQuery` `Tailwind CSS`
+`Express.js` `Next.js` `MySQL` `jQuery` `Tailwind CSS`
 
 - Implemented scalable inventory and order management modules
 - Streamlined warehouse and supply chain workflows
@@ -140,7 +140,7 @@ I specialize in end-to-end product development — from database design and REST
 ### 4. 🛒 E-commerce Website
 > Full-featured online store with product catalog, cart, and checkout flows.
 
-`Laravel` `PHP` `MySQL` `React.js` `REST APIs`
+`Express.js` `Next.js` `MySQL` `REST APIs`
 
 - Built secure payment-ready commerce architecture
 - Optimized frontend for conversion and performance
@@ -150,7 +150,7 @@ I specialize in end-to-end product development — from database design and REST
 ### 5. 🎓 E-learning Platform
 > Online learning system with course management and student engagement.
 
-`Laravel` `PHP` `MySQL` `Next.js` `Tailwind CSS`
+`Express.js` `Next.js` `MySQL` `Tailwind CSS`
 
 - Developed course delivery and user progress tracking
 - Enhanced learner experience with responsive UI
@@ -211,7 +211,7 @@ I specialize in end-to-end product development — from database design and REST
 ## 💼 Professional Experience
 
 ### Full Stack Developer — **Samadhan**
-*5+ Years · Lucknow, India*
+*5.5+ Years · Lucknow, India*
 
 Delivered and maintained multiple enterprise-grade web applications:
 
