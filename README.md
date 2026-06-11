@@ -174,15 +174,15 @@ I specialize in end-to-end product development — from database design and REST
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivendra473&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
-&nbsp;
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Shivendra473&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
+&nbsp; -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivendra473&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivendra473&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivendra473&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 
-<br/><br/>
+<br/><br/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivendra473&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
