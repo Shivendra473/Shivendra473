@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-shivendra.samadhangroup%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivendra.samadhangroup@gmail.com)
-[![Call](https://img.shields.io/badge/Call-842980808-0088FF?style=for-the-badge&logo=phone&logoColor=white)](tel:+91842980808)
+[![Call](https://img.shields.io/badge/Call-8429808088FF?style=for-the-badge&logo=phone&logoColor=white)](tel:+918429808088)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-7379721674-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917379721674)
 
 </div>
@@ -267,7 +267,7 @@ I'm always open to discussing **new opportunities**, **freelance projects**, or 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivendra.samadhangroup@gmail.com)
-[![Call](https://img.shields.io/badge/Call-842980808-0088FF?style=for-the-badge&logo=phone&logoColor=white)](tel:+91842980808)
+[![Call](https://img.shields.io/badge/Call-8429808088FF?style=for-the-badge&logo=phone&logoColor=white)](tel:+918429808088)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%207379721674-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917379721674)
 
 </div>
